@@ -1,0 +1,9 @@
+section.lead h1 {
+  margin: 0 auto 100px;
+  border: 0;
+}
+
+section.lead h2 {
+  margin: 0 auto;
+  border: 0;
+}
