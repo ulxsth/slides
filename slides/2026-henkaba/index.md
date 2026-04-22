@@ -14,11 +14,14 @@ math: katex
 ## ～温泉編～
 yotu
 
+<!-- _class: small-img -->
 # 自己紹介
 - よつ（yotu）
   - 22歳, 26卒
   - 趣味：ランニング、小旅行
   - 出身：佐賀、嬉野
+![bg right height:300px](images/icon.jpg)
+![bg right height:300px vertical](images/me.jpg)
 
 # きょう喋ること
 - 我が地元、嬉野について語ります
@@ -27,9 +30,7 @@ yotu
 
 # 嬉野って？
 - 佐賀の南西に位置する盆地の町です
-
-# 何が有名なの？
-- お茶
+![height:400px](images/ureshino-kv.png)
 
 # 何が有名なの？
 - 温泉
@@ -39,16 +40,19 @@ yotu
 # 何が有名なの？
 - 温泉
   - 「日本三大美肌の湯」と呼ばれています
+![bg right](images/shiiba-sanso.png)
 
 # 何が有名なの？
 - お茶（嬉野茶）
   - 独特な丸みのある玉緑茶
   - 香ばしく、煎が効く釜炒り製が多い
+![bg right](images/ureshinocha-kv.png)
 
 # 何が有名なの？
 - 焼き物（吉田焼・志田焼）
   - 江戸から続く、天草陶石を使った磁器
   - 4月頭に開催される「おやまさん陶器祭り」も有名
+![bg right](images/shidayaki.png)
 
 # 嬉野温泉について
 - 以下の順番でしゃべります
@@ -59,6 +63,7 @@ yotu
 - ツルツル、スベスベ
   - メリット　：肌にめちゃくちゃいい
   - デメリット：気を抜くとコケる
+![bg right:35%](images/ureshino-oyu.png)
 
 # 特徴
 - あつい
@@ -76,24 +81,27 @@ yotu
 - 本命：[大正屋](https://www.taishoya.com/)
   - 長崎街道（嬉野の中心）にあるホテル
   - 入浴料：1,300円（大人）
+![bg right](images/taishoya.png)
 
 # おススメの温泉
 - 大正屋HP（自信がすごい）
-![alt text](image.png)
+![height:430px](images/sc-taishoya-hp.png)
 
 # おススメの温泉
 - 対抗：[大村屋](https://www.oomuraya.co.jp/)
   - 嬉野川沿いにある旅館
   - 入浴料：1,100円（大人）
+![bg right](image.png)
 
 # おススメの温泉
 - 貸し切りサウナがあるらしいです
-  - 入浴料：5,500円（大人）
+![height:400px](images/oomuraya-sauna.png)
 
 # おススメの温泉
 - 大穴：椎葉山荘
   - 山中にある大正屋の別荘（マジで遠い！！！）
   - 車 or 無料送迎があります（要事前予約）
+![bg right](images/shiiba-sanso.png)
 
 # おススメの温泉
 - ちなみに
